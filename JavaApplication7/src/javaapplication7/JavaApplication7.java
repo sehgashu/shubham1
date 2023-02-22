@@ -18,3 +18,4 @@ public class JavaApplication7 {
     }
     //tgis is tri commit
 }
+this is a new change6
